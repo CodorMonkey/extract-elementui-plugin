@@ -1,8 +1,13 @@
 {
   "name": "extract-elementui-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "自动提取element-ui按需加载文件，告别手动维护按需加载",
   "main": "index.js",
-  "repository": "https://github.com/CodorMonkey/extract-elementui-plugin.git",
+  "repository": {
+    "url": "https://github.com/CodorMonkey/extract-elementui-plugin.git",
+    "type": "git"
+  },
+  "keywords": ["element-ui", "Vue.js", "按需加载"],
   "author": "CodorMonkey <463149023@qq.com>",
   "license": "Apache",
   "devDependencies": {

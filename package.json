@@ -1,6 +1,6 @@
 {
   "name": "extract-elementui-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "自动提取element-ui按需加载文件，告别手动维护按需加载",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,7 @@
   ],
   "author": "CodorMonkey <463149023@qq.com>",
   "license": "Apache",
-  "devDependencies": {
+  "dependencies": {
     "ejs": "^2.6.1",
     "klaw-sync": "^6.0.0"
   }

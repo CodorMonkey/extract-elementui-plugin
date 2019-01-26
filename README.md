@@ -1,3 +1,8 @@
+### description
+```
+自动提取element-ui按需加载文件，告别手动维护按需加载
+```
+
 ### install
 ```
 yarn add -D extract-elementui-plugin
